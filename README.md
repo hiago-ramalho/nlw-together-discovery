@@ -1,6 +1,6 @@
-# nlw-together-discovery
+# nlw-together-discovery 🚀
 
-# Rocket.q
+# Rocket.q 💭
 <img src="prints/home.png"/>
 
 ## 🚀 Tecnologias
